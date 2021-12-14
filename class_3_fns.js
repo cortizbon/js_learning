@@ -32,3 +32,6 @@ function sumar(a,b){
     var resultado = a + b
     return resultado
 }
+
+//puedo hacer recursión con las funciones declarativas, pero con las funciones
+//de expresión no.
